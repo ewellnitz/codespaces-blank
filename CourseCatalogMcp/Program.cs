@@ -124,6 +124,9 @@ public static class CourseTools
 
 #region Resources
 
+
+[McpServerResource("courseCatalog/{courseId}")]
+
 [McpServerResource("courseCatalog")]
 public class CourseCatalogResource : IMcpServerResource
 {
