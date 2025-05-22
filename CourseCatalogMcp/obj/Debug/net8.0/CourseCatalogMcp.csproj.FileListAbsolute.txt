@@ -1,0 +1,5 @@
+/workspaces/codespaces-blank/CourseCatalogMcp/obj/Debug/net8.0/CourseCatalogMcp.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/CourseCatalogMcp/obj/Debug/net8.0/CourseCatalogMcp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CourseCatalogMcp/obj/Debug/net8.0/CourseCatalogMcp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CourseCatalogMcp/obj/Debug/net8.0/CourseCatalogMcp.AssemblyInfo.cs
+/workspaces/codespaces-blank/CourseCatalogMcp/obj/Debug/net8.0/CourseCatalogMcp.csproj.CoreCompileInputs.cache
